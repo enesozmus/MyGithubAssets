@@ -18,6 +18,8 @@ https://github.com/enesozmus/MyGithubAssets/assets/94680591/be0138af-b1b6-4a5b-8
 
 https://github.com/enesozmus/MyGithubAssets/assets/94680591/b16ac33b-d6a9-4aaf-bd87-81bf6a115251
 
+https://github.com/enesozmus/MyGithubAssets/assets/94680591/c87bd884-a470-4fd6-a8ed-160739bbae04
+
 # MyGithubAssets
 
-https://github.com/enesozmus/MyGithubAssets/assets/94680591/c87bd884-a470-4fd6-a8ed-160739bbae04
+https://github.com/enesozmus/MyGithubAssets/assets/94680591/658b134c-4b06-43f5-99ba-bf72cb5c68d9
