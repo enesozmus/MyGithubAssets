@@ -38,7 +38,11 @@ https://github.com/user-attachments/assets/40968930-b9ea-426a-9ff8-dcda6783e40e
 
 https://github.com/user-attachments/assets/ad4022ca-eb07-4bc2-aad1-9826b356773d
 
-# MyGithubAssets
-
 ![Swagger UI - Google Chrome 26 08 2024 14_09_33](https://github.com/user-attachments/assets/c3671907-988b-4500-8f1a-5b0286b9e808)
+
+# MyGithubAssets
+![Angela Design Tutorial - Google Chrome 27 08 2024 01_43_13](https://github.com/user-attachments/assets/fd9af32a-da16-4628-8da0-3d42530e4ea3)
+![Slaying The Dragon Tutorial - Google Chrome 27 08 2024 01_41_34](https://github.com/user-attachments/assets/63884491-c0bd-4f46-9976-0fdef91cc15b)
+![Slaying The Dragon Tutorial - Google Chrome 27 08 2024 01_42_18](https://github.com/user-attachments/assets/df810f42-f6e8-4a9b-a9a5-4d96f329f3ef)
+![Study 1 - Google Chrome 27 08 2024 01_43_30](https://github.com/user-attachments/assets/af14a9b3-ad31-4ba6-978f-581fc0534940)
 
