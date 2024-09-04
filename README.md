@@ -44,8 +44,6 @@ https://github.com/user-attachments/assets/ad4022ca-eb07-4bc2-aad1-9826b356773d
 ![Slaying The Dragon Tutorial - Google Chrome 27 08 2024 01_41_34](https://github.com/user-attachments/assets/63884491-c0bd-4f46-9976-0fdef91cc15b)
 ![Slaying The Dragon Tutorial - Google Chrome 27 08 2024 01_42_18](https://github.com/user-attachments/assets/df810f42-f6e8-4a9b-a9a5-4d96f329f3ef)
 ![Study 1 - Google Chrome 27 08 2024 01_43_30](https://github.com/user-attachments/assets/af14a9b3-ad31-4ba6-978f-581fc0534940)
-
-# MyGithubAssets
 ![Lun Dev Tutorial - Google Chrome 27 08 2024 13_03_15 (1)](https://github.com/user-attachments/assets/badc6d62-113b-45c0-94c9-99f2bda305eb)
 ![Become A Master Grid CSS In 13 Minutes - YouTube - Google Chrome 27 08 2024 13_03_34](https://github.com/user-attachments/assets/0d421ce1-69f8-45f4-a125-01bf15078349)
 ![Become A Master Grid CSS In 13 Minutes - YouTube - Google Chrome 27 08 2024 13_08_02](https://github.com/user-attachments/assets/e865d066-e66e-4fcc-81ba-3a249ef4aea3)
@@ -67,5 +65,10 @@ https://github.com/user-attachments/assets/ad4022ca-eb07-4bc2-aad1-9826b356773d
 ![Learn CSS Grid - A 13 Minute Deep Dive - YouTube - Google Chrome 27 08 2024 12_42_00](https://github.com/user-attachments/assets/4d204308-71fc-415b-8d2d-5e36e2ab22e8)
 ![Aligning Grid Items - Google Chrome 27 08 2024 12_35_26](https://github.com/user-attachments/assets/fe88b81c-614b-4fe9-acf7-e73a11a7d480)
 ![Aligning Grid Items - Google Chrome 27 08 2024 12_35_37](https://github.com/user-attachments/assets/0e8e2ca4-b400-4c3a-8d30-32ca8a9bfd27)
+
+# MyGithubAssets
+https://github.com/user-attachments/assets/f208e99f-029b-47a1-a624-cc3509cada15
+
+
 
 
